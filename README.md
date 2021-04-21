@@ -1,16 +1,18 @@
-### Hi there 👋
+## **Projetos:**
 
-<!--
-**PrysmaEG/PrysmaEG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🥂- [Como fazer um Bot para Discord em JS](https://github.com/PrysmaEG/BotDiscordJSTutorial)
+> Tutorial básico de como começar a desenvolver Bots para o Discord em [JavaScript](https://www.javascript.com) 
 
-Here are some ideas to get you started:
+ ☕ - **[Kyou](https://discord.com/oauth2/authorize?client_id=824081480070070313&permissions=8&scope=bot)**, uma **simples Bot  Brasileira** com funções **incríveis** para seu servidor!
+>  [❤ Clique Aqui para Adicionar a Kyou](https://discord.com/oauth2/authorize?client_id=824081480070070313&permissions=8&scope=bot)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **🍵 Linguagens:**
+
+- [JavaScript](https://www.javascript.com)
+- [NodeJS](https://nodejs.org/en/)
+- [Python](https://www.python.org)
+- [CSS](https://css-tricks.com)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+
+
+> Meu **Discord**: `Prisma 愛#8802`
