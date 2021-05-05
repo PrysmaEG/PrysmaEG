@@ -16,3 +16,8 @@
 
 
 > Meu **Discord**: `Prisma 愛#8802`
+
+<details>
+  <summary>:zap: GitHub Status</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PrysmaEG129&show_icons=true&hide_border=true" />
